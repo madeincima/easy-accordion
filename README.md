@@ -1,5 +1,7 @@
 # jQuery plugin: Easy Accordion
 
+[https://www.madeincima.it](https://www.madeincima.it "https://www.madeincima.it")
+
 ## How does it work?
 Easy Accordion plugin will get your **definition lists** (DTs) and generate a nice and smooth horizontal accordion. You can then decide to make it a timed slideshow or leave it still.
 As usual, all of that will be realized in an unobtrusive, SEO friendly and accessible way.
